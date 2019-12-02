@@ -1,1 +1,1 @@
-readme file for sixers app
+The plan is to create a Sixers stats dashboard.
